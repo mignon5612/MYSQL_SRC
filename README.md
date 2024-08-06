@@ -57,5 +57,6 @@ ex) nano README.md
 : git commit -m "설명 업데이트"<br/>
 : git push origin main<br/>
 
-▶ 원격저장소에 새로운 커밋이 있다면 그 커밋을 내 로컬저장소로 받아오기 (폴더에서 확인시 아직 반영이안되었을때)<br/>
+▶ 원격저장소에 새로운 커밋이 있다면 그 커밋을 내 로컬저장소로 받아오기<br/> 
+(폴더에서 확인시 아직 반영이안되었을때)<br/>
 : git pull origin main<br/>
