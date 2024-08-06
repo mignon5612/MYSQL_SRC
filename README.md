@@ -46,5 +46,16 @@ ex) nano README.md
 : git push origin main<br/>
 ✔️ 리눅스에서는 이 작업시 토큰방식 사용<br/>
 비밀번호 넣는 칸에 전에 미리 저장해둔 토큰을 넣고 엔터<br/>
- └비밀번호 입력시 안보이는게 정상<br/>
-    
+└ 비밀번호 입력시 안보이는게 정상<br/>
+
+▶ 원격저장소 주소를 입력하여 내 컴퓨터 로컬저장소로 내려받기<br/>
+: git clone https://github.com/mignon5612/MYSQL_SRC.git . (원격저장소 git주소넣기)<br/>
+✔️ 맨 끝에 꼭 한 칸 띄고 .을 넣어준다 (.은 현재폴더)<br/>
+
+▶ 수정시 수정 후 올리기<br/>
+: git add README.md<br/>
+: git commit -m "설명 업데이트"<br/>
+: git push origin main<br/>
+
+▶ 원격저장소에 새로운 커밋이 있다면 그 커밋을 내 로컬저장소로 받아오기 (폴더에서 확인시 아직 반영이안되었을때)<br/>
+: git pull origin main<br/>
