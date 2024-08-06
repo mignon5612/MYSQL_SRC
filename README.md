@@ -1,6 +1,6 @@
-💗 MYSQL 수업 내용 정리 💗
+## 💗 MYSQL 수업 내용 정리 💗
 
-🌼git_linux<br/><br/>
+### 🌼git_linux<br/><br/>
 
 
 ▶ 터미널에 폴더를 만들어줄 경로로 들어간다<br/>
@@ -58,5 +58,5 @@ ex) nano README.md
 : git push origin main<br/>
 
 ▶ 원격저장소에 새로운 커밋이 있다면 그 커밋을 내 로컬저장소로 받아오기<br/> 
-(폴더에서 확인시 아직 반영이안되었을때)<br/>
+(폴더에서 확인시 아직 반영이안되었을때)   
 : git pull origin main<br/>
