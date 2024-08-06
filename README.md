@@ -39,12 +39,12 @@ ex) nano README.md
 ▶ 로컬저장소(.git)에 만들었던 커밋들을 원격저장소(git)로 올리기<br/>
 : git remote add origin https://github.com/mignon5612/MYSQL_SRC.git (원격저장소 git주소넣기)<br/>
 
-▶ 지금까지 만든 커밋을 둘 장소이름짓고 만들기<br/>
+▶ 지금까지 만든 커밋을 둘 장소 이름 짓고 만들기<br/>
 : git branch -M main<br/>
 
 ▶ 원격저장소의(origin) main이라는 방에 내 커밋올리기<br/>
 : git push origin main<br/>
 ✔️ 리눅스에서는 이 작업시 토큰방식 사용<br/>
 비밀번호 넣는 칸에 전에 미리 저장해둔 토큰을 넣고 엔터<br/>
->>>✔️ 비밀번호 입력시 안보이는게 정상
+ └비밀번호 입력시 안보이는게 정상<br/>
     
